@@ -1,0 +1,5 @@
+source 'https://supermarket.chef.io'
+
+cookbook 'git', '~> 4.1.0'
+cookbook 'nodejs', '~> 2.2.0'
+cookbook 'vim', '~> 1.1.2'
